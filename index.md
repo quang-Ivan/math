@@ -2,7 +2,7 @@
 
 欢迎光临
 
-点击[这里](https://quang-ivan.github.io/biology/biology.html)进入错题本
+点击[这里](https://github.com/quang-Ivan/math/math.html)进入错题本
 
 可能加载会有点慢，可以下载pdf版，观感更好哦！
 
