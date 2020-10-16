@@ -8,12 +8,12 @@
 
 这是一个学渣的数学错题本，欢迎提交issues和pull request
 
-- [提issue](https://github.com/quang-Ivan/biology/issues)
-- [pull request](https://github.com/quang-Ivan/biology/pulls)
+- [提issue](https://github.com/quang-Ivan/math/issues)
+- [pull request](https://github.com/quang-Ivan/math/pulls)
 
 点击下载pdf，获取pdf文件
 
-[下载pdf](https://github.com/quang-Ivan/biology/files/5365181/biology.pdf)
+[下载pdf](https://github.com/quang-Ivan/math/files/5391484/math.pdf)
 
 # 亟待解决的问题
 - 加载过于缓慢(因为加载的是整个带图的html文件。没钱用cdn加速，哭/(ㄒoㄒ)/~~)
