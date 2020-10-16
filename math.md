@@ -1,3 +1,16 @@
+---
+html:
+  embed_local_images: false
+  embed_svg: true
+  offline: false
+  toc: true
+toc:
+  depth_from: 1
+  depth_to: 6
+  ordered: true
+print_background: false
+---
+
 # 函数
 
 ## 函数的变换
