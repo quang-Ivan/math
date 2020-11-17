@@ -19,7 +19,7 @@ print_background: false
 
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4kX6.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_4_0.png)
 
 
 其上任意一点$$\begin{array}{l}  
@@ -30,21 +30,21 @@ print_background: false
 首先对其做平移变换，将函数向左平移$\pi\over2$个单位得到$$(x_0-\frac{\pi}{2},f(x_0))$$
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4uhd.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_7_0.png)
 
 
 再对其进行伸缩变换，使此刻所有横坐标变为原来的2倍得到$$(2(x_0-\frac{\pi}{2}),f(x_0))$$
 
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4gN4.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_9_0.png)
 
 
 再在竖直方向进行拉伸两倍得到$$(2(x_0-\frac{\pi}{2}),2f(x_0))$$
 
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4cEF.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_11_0.png)
 
 
 最后得到关系式$$\begin{array}{l}  
@@ -67,7 +67,7 @@ y=2f(\frac{1}{2}x+\frac{\pi}{2})
 
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4yHU.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_16_0.png)
 
 
 同理，对于$$y=f(x)$$
@@ -75,19 +75,19 @@ y=2f(\frac{1}{2}x+\frac{\pi}{2})
 先把横坐标拉伸2倍$$(2x_0,y_0)$$
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4OCd.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_19_0.png)
 
 
 再右移3个单位$$(2x_0+3,y_0)$$
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4X8A.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_21_0.png)
 
 
 再竖着拉伸$\frac{1}{3}$倍$$(2x_0+3,\frac{1}{3}y_0)$$
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4jgI.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_23_0.png)
 
 
 有对应关系$$\begin{array}{l}
@@ -99,7 +99,7 @@ y'=\frac{1}{3}y_0
 
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4vvt.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_26_0.png)
 
 
 ## 实例详解
@@ -145,7 +145,7 @@ y'=\frac{1}{3}y_0
 注意到$$A+B>\frac{\pi}{2}$$
 
 
-![png](https://s1.ax1x.com/2020/10/16/0b4q4H.png)
+![png](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/output_48_0.png)
 
 
 注意到$$\frac{\pi}{4}-A<B-\frac{\pi}{4}$$
@@ -242,7 +242,7 @@ A(2x_0-x_1)^2+B(2y_0-y_1)^2+C(2x_0-x_1)(2y_0-y_1)+D(2x_0-x_1)+E(2y_0-y_1)+F=0 \q
 
 举例，椭圆$Ax^2+By^2+F=0$的中点弦是$$Ax_0x+By_0y=Ax_0^2+By_0^2$$
 
-![1.jpg](https://s1.ax1x.com/2020/10/16/0b5DGd.jpg)
+![1.jpg](https://cdn.jsdelivr.net/gh/quang-Ivan/math@master/pics/1.jpg)
 
 # 集合
 
